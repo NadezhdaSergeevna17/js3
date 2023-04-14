@@ -1,1 +1,2 @@
-# js3
+# js1
+Training in learning js
